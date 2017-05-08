@@ -48,3 +48,9 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+
+## Things I did:
+
+* Added twitter bootstrap to the project by following the SASS instructions [here](http://www.netosober.io/bootstrap/emberjs/embercli/2015/07/16/emberjs-styling-wtih-bootstrap/)
+* Setup the project to use poods by following the instructions [here](http://www.programwitherik.com/ember-pods/))

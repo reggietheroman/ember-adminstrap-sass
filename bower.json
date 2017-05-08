@@ -1,0 +1,20 @@
+{
+  "name": "ember-adminstrap-sass",
+  "description": "Ember.js project that utilizes SASS to use twitter bootstrap.",
+  "main": "",
+  "authors": [
+    "Reggie <reggietheroman@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/reggietheroman/ember-adminstrap-sass",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

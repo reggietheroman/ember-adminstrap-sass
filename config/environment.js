@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ember-adminstrap-sass',
+    podModulePrefix: 'ember-adminstrap-sass/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
