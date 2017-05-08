@@ -53,4 +53,4 @@ Specify what it takes to deploy your app.
 ## Things I did:
 
 * Added twitter bootstrap to the project by following the SASS instructions [here](http://www.netosober.io/bootstrap/emberjs/embercli/2015/07/16/emberjs-styling-wtih-bootstrap/)
-* Setup the project to use poods by following the instructions [here](http://www.programwitherik.com/ember-pods/))
+* Setup the project to use poods by following the instructions [here](http://www.programwitherik.com/ember-pods/)
