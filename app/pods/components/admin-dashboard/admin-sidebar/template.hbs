@@ -1,1 +1,26 @@
-sidebar
+<div class="col-sm-3 col-md-2 sidebar">
+  <ul class="nav nav-sidebar">
+    <li class="active"><a href="">Home</a></li>
+    <li><a href="">Nav A 2</a></li>
+    <li><a href="">Nav A 3</a></li>
+  </ul>
+  <ul class="nav nav-sidebar">
+    <li><a href="">Nav B 1</a></li>
+    <li><a href="">Nav B 2</a></li>
+    <li><a href="">Nav B 3</a></li> 
+  </ul>
+  <ul class="nav nav-sidebar">
+    <li><a href="">Nav C 1</a></li>
+    <li><a href="">Nav C 2</a></li>
+    <li><a href="">Nav C 3</a></li> 
+  </ul>
+
+  <h2>{{title}}</h2>
+{{navs}}
+  <ul>
+    {{#each navs as |nav|}}
+      <li><a href="">{{nav}}</a></li>
+    {{/each}}
+  </ul>
+
+</div>
